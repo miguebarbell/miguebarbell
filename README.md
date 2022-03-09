@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning react native so I can transfer the knowlegde to the mobile area, but in the far horizont, I'm learning Rust, that's the future.
 
-⚡ Fun fact: I'm currently moved to gitlab, I found it better privacy friendly there, this is more like social media stuff, so I'm carefull about what have here.
+⚡ Fun fact: I'm currently moved to gitlab, I found it better privacy friendly there, this is more like social media stuff, so I'm carefull about what have here. Also I have a real mess with the emails that I have here in github, so don't believe in the github's activity overview.
 
 # Stay Hard!
 
@@ -17,7 +17,7 @@
 ### I left you some pictures.
 
 #### [React and redux](https://bsa.debloat.us) skills
-<img src="https://media-exp1.licdn.com/dms/image/C4D2DAQEo0ZiCcrb-Jg/profile-treasury-image-shrink_800_800/0/1639169953680?e=1646931600&v=beta&t=RyMN3R79S9W1YeRVxZjYD3wcb8-3xyOLYf0g4ONmVfs" alt="bsa site screenshot" width="500px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/item.png" alt="bsa site item" width="500px;"/>  
+<img src="https://media-exp1.licdn.com/dms/image/C4D2DAQEo0ZiCcrb-Jg/profile-treasury-image-shrink_800_800/0/1639169953680?e=1646931600&v=beta&t=RyMN3R79S9W1YeRVxZjYD3wcb8-3xyOLYf0g4ONmVfs" alt="bsa site screenshot" width="250px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/item.png" alt="bsa site item" width="250px;"/>  
 
 #### My [blog](https://life.debloat.us)
 <img src="https://miguel.debloat.us/static/images/fullstack/heroblog.png" alt="main page of my blog" width="500px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/postsblog.png" alt="some post in my blog" width="500px;"/>
