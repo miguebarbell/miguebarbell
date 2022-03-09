@@ -20,17 +20,17 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D2DAQEo0ZiCcrb-Jg/profile-treasury-image-shrink_800_800/0/1639169953680?e=1646931600&v=beta&t=RyMN3R79S9W1YeRVxZjYD3wcb8-3xyOLYf0g4ONmVfs" alt="bsa site screenshot" width="420px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/item.png" alt="bsa site item" width="420px;"/>  
 
 #### My [blog](https://life.debloat.us)
-<img src="https://miguel.debloat.us/static/images/fullstack/heroblog.png" alt="main page of my blog" width="500px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/postsblog.png" alt="some post in my blog" width="500px;"/>
+<img src="https://miguel.debloat.us/static/images/fullstack/heroblog.png" alt="main page of my blog" width="420px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/postsblog.png" alt="some post in my blog" width="420px;"/>
 
 ### Some deeplearning applications
 #### This recognize all the faces in a picture and set a score to the smile.
-<img src="https://miguel.debloat.us/static/images/deeplearning/gifs.gif" alt="sympathi app" width="400px;"/>
+<img src="https://miguel.debloat.us/static/images/deeplearning/gifs.gif" alt="sympathi app" width="420px;"/>
 
 #### Here you can annonimize any picture, and choose the filter that you want
-<img src="https://miguel.debloat.us/static/images/deeplearning/gifa.gif" alt="annonymizer app" width="400px;"/>
+<img src="https://miguel.debloat.us/static/images/deeplearning/gifa.gif" alt="annonymizer app" width="420px;"/>
 
 ### And a height stimator, augmented reality with aruco tags
-<img src="https://miguel.debloat.us/static/images/deeplearning/gifh.gif" alt="height stimator" width="400px;"/>
+<img src="https://miguel.debloat.us/static/images/deeplearning/gifh.gif" alt="height stimator" width="420px;"/>
 
 
 <!--
