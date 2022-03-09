@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m currently working on my own fitness journal, I'm a believer that if you implement a tool that you use it everyday, that tool will be a success.
+
 🌱 I’m currently learning react native so I can transfer the knowlegde to the mobile area, but in the far horizont, I'm learning Rust, that's the future.
+
 ⚡ Fun fact: I'm currently moved to gitlab, I found it better privacy friendly there, this is more like social media stuff, so I'm carefull about what have here.
 
 <!--
