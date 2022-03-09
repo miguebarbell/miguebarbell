@@ -16,7 +16,7 @@
 
 ### I left you some pictures.
 
-#### [React and redux](https://bsa.debloat.us) skills
+#### [React and redux](https://bsa.debloat.us) skills (try buying something)
 <img src="https://media-exp1.licdn.com/dms/image/C4D2DAQEo0ZiCcrb-Jg/profile-treasury-image-shrink_800_800/0/1639169953680?e=1646931600&v=beta&t=RyMN3R79S9W1YeRVxZjYD3wcb8-3xyOLYf0g4ONmVfs" alt="bsa site screenshot" width="420px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/item.png" alt="bsa site item" width="420px;"/>  
 
 #### My [blog](https://life.debloat.us)
