@@ -1,3 +1,7 @@
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguebarbell&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguebarbell&layout=compact&theme=chartreuse-dark&langs_count=8" />
+
+
 ### Hi there 👋
 
 🔭 I’m currently working on my own fitness journal, I'm a believer that if you implement a tool that you use it everyday, that tool will be a success. The aim is help everyone who have a fitness goal (run xmiles in a month | lift this amount of weight before xdate), meassure the progress and be proud of the own work.
