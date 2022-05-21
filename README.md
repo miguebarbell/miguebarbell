@@ -1,5 +1,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguebarbell&count_private=true&show_icons=true&theme=chartreuse-dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguebarbell&layout=compact&theme=chartreuse-dark&langs_count=8" />
+ <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=miguebarbell&theme=discord&rank=-C,-B,-?&no-bg=true&margin-w=15&margin-h=15&column=-1" align="center"/>
 
 
 ### Hi there 👋
