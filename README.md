@@ -2,12 +2,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguebarbell&layout=compact&theme=chartreuse-dark&langs_count=8" />
  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=miguebarbell&theme=discord&rank=-C,-B,-?&no-bg=true&margin-w=15&margin-h=15&column=-1" align="center"/>
 
+### HELLOOOOO 👋, I'm Miguel *(mi-guel)*
+> I'm built from some courses but the 80%+ of my real knoledge is from self taught.
 
-### Hi there 👋
-
-🔭 I’m currently working on my own fitness journal, I'm a believer that if you implement a tool that you use it everyday, that tool will be a success. The aim is help everyone who have a fitness goal (run xmiles in a month | lift this amount of weight before xdate), meassure the progress and be proud of the own work.
-
-
+🔭 I finished a goal tracker named [journal](https://journal.debloat.us/demo) that I use everyday. The aim is help everyone who have a fitness goal (run xmiles in a month | lift this amount of weight before xdate), meassure the progress and be proud of the own work.
 
 💬 I have a [blog](https://life.debloat.us) about linux and the unix philosophy.
 
@@ -36,19 +34,3 @@
 
 ### And a height stimator, augmented reality with aruco tags
 <img src="https://miguel.debloat.us/static/images/deeplearning/gifh.gif" alt="height stimator" width="420px;"/>
-
-
-<!--
-**miguebarbell/miguebarbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
