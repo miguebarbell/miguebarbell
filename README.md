@@ -18,8 +18,11 @@
 
 ### I left you some pictures.
 
+#### [Journal](https://journal.debloat.us/demo)
+<img src=""/>
+
 #### [React and redux](https://bsa.debloat.us) skills (try buying something)
-<img src="https://miguel.debloat.us/static/images/fullstack/item.png" alt="bsa site item" width="420px;"/>  
+<img src="https://miguel.debloat.us/static/images/fullstack/profilesmall.png" alt="profile" width="420px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/calendarsmall.png" alt="calendar" width="420px;"/>
 
 #### My [blog](https://life.debloat.us)
 <img src="https://miguel.debloat.us/static/images/fullstack/heroblog.png" alt="main page of my blog" width="420px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/postsblog.png" alt="some post in my blog" width="420px;"/>
