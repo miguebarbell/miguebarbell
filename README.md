@@ -3,7 +3,6 @@
  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=miguebarbell&theme=discord&rank=-C,-B,-?&no-bg=true&margin-w=15&margin-h=15&column=-1" align="center"/>
 
 ### HELLOOOOO 👋, I'm Miguel *(mi-guel)*
-> I'm built from some courses, but 80%+ of my actual knowledge is self-taught.
 
 🔭 Getting use to work in java, for backend development.
 
@@ -24,7 +23,7 @@
 <img src="https://miguel.debloat.us/static/images/fullstack/profilesmall.png" alt="profile" width="420px;"/>  
 
 #### [React and redux](https://bsa.debloat.us) skills (try buying something)
-<img src="https://miguel.debloat.us/static/images/fullstack/profilesmall.png" alt="profile" width="420px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/calendarsmall.png" alt="calendar" width="420px;"/>
+<img src="https://miguel.debloat.us/static/images/fullstack/hero.png" alt="profile" width="420px;"/> 
 
 #### My [blog](https://life.debloat.us)
 <img src="https://miguel.debloat.us/static/images/fullstack/heroblog.png" alt="main page of my blog" width="420px;"/>  <img src="https://miguel.debloat.us/static/images/fullstack/postsblog.png" alt="some post in my blog" width="420px;"/>
