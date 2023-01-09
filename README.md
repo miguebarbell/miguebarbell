@@ -43,7 +43,7 @@ so you have to believe in GitHubs activity overview.
 
 ### I left you some pictures.
 
-[Journal](https://journal.debloat.us/demo) Mastering 💅💅 *Styled Components* 💅💅
+[Journal](http://journal.debloat.us/demo) Mastering 💅💅 *Styled Components* 💅💅
 
 <img src="https://miguel.debloat.us/static/images/fullstack/calendarsmall.png" alt="calendar" width="420px;"/>  
 
