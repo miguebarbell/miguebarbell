@@ -23,7 +23,7 @@
 🦀🦀But Im a  █▀█ █ █ █▀▀ ▀█▀   🦀🦀🦀🦀🦀🦀🦀
 🦀🦀          █▀▄ █▄█ ▄▄█  █    believer.🦀🦀
 
-💬 I have a [blog](https://life.debloat.us) about  █   █ █▄ █ █ █ ▀▄▀ 
+💬 I have a [blog](https://life.debloat.us) about      █   █ █▄ █ █ █ ▀▄▀ 
   and the  UNIX PHILOSOPHY 🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧     █▄▄ █ █ ▀█ █▄█ █ █ 
 
 🌱 Grabbing  ▀█▀ █▀▀ because JS get messy in big projects.
