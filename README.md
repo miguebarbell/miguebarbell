@@ -15,14 +15,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguebarbell&count_private=true&show_icons=true&theme=chartreuse-dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguebarbell&layout=compact&theme=chartreuse-dark&langs_count=8" />
  
-
-### I left you some pictures.
-[WackAMole](http://wakamole.s3-website-us-east-1.amazonaws.com/) - perfect mix of styled components, intervals, timeouts and spring boot
-
-<img src="./media/wakamole.png" alt="gamming" width="420px;"/>  
-
-
-#### This recognize all the faces in a picture and set a score to the smile.
+#### Recognize all the faces in a picture and set a score to the smile.
 <img src="https://miguel.debloat.us/static/images/deeplearning/gifs.gif" alt="sympathi app" width="420px;"/>
 
 #### Here you can annonimize any picture, and choose the filter that you want
