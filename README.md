@@ -2,6 +2,8 @@
 
 *(mi-guel)*
 
+[![Miguel Stats](https://awesome-github-stats.azurewebsites.net/user-stats/miguebarbell?cardType=level&preferLogin=false)](https://www.linkedin.com/in/rmigue)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguebarbell&count_private=true&show_icons=true&theme=chartreuse-dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguebarbell&layout=compact&theme=chartreuse-dark&langs_count=8" />
  
 #### Recognize all the faces in a picture and set a score to the smile.
