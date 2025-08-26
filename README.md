@@ -3,6 +3,10 @@
 *(mi-guel)*
 
 [![Miguel Stats](https://awesome-github-stats.azurewebsites.net/user-stats/miguebarbell?cardType=level-alternate&preferLogin=false&theme=radical)](https://www.linkedin.com/in/rmigue)
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguebarbell&theme=radical" alt="Miguel's GitHub Achievements" />
+</div>
  
 #### Recognize all the faces in a picture and set a score to the smile.
 <img src="https://miguel.debloat.us/static/images/deeplearning/gifs.gif" alt="sympathi app" width="420px;"/>
